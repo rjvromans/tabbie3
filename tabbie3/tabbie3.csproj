@@ -108,6 +108,7 @@
   <ItemGroup>
     <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
+    <None Include="MyReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
